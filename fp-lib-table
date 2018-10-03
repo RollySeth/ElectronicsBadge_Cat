@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name GTB)(type KiCad)(uri C:/Users/rollys/Documents/Personal/Learning/Hardware/Kicad/GettingToBlinky/GTB.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri C:/Users/rollys/Documents/Garage/PCB/badge/KiCad-master/projects/ICanSolder/design_files/footprints.pretty)(options "")(descr ""))
+  (lib (name pin)(type KiCad)(uri "$(KIPRJMOD)/pin.pretty")(options "")(descr ""))
+  (lib (name Dog)(type KiCad)(uri "$(KIPRJMOD)/Dog.pretty")(options "")(descr ""))
+)
